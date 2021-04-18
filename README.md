@@ -1,5 +1,7 @@
 # ES初学笔记
 
+## 创建索引
+
 > 创建一个指定类型并且带数据的索引
 
 ![Screenshot](ES-CRUD/res1.png)
@@ -15,3 +17,19 @@ Get test2
 ```
 
 ![Screenshot](ES-CRUD/res3.png)
+
+> 创建一个默认类型并且带数据的索引
+
+![Screenshot](ES-CRUD/res4.png)
+
+> 查看该索引库信息
+
+![Screenshot](ES-CRUD/res5.png)
+
+> 查看所有库信息
+
+``` Bash
+Get _cat/indices?v
+```
+
+![Screenshot](ES-CRUD/res5.png)
