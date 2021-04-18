@@ -32,4 +32,4 @@ Get test2
 Get _cat/indices?v
 ```
 
-![Screenshot](ES-CRUD/res5.png)
+![Screenshot](ES-CRUD/res6.png)
