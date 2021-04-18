@@ -16,15 +16,15 @@
 Get test2
 ```
 
-![Screenshot](ES-CRUD/res3.png)
+![Screenshot](ES-CRUD/res35.png)
 
 > 创建一个默认类型并且带数据的索引
 
-![Screenshot](ES-CRUD/res4.png)
+![Screenshot](ES-CRUD/res3.png)
 
 > 查看该索引库信息
 
-![Screenshot](ES-CRUD/res5.png)
+![Screenshot](ES-CRUD/res4.png)
 
 > 查看所有库信息
 
@@ -32,4 +32,4 @@ Get test2
 Get _cat/indices?v
 ```
 
-![Screenshot](ES-CRUD/res6.png)
+![Screenshot](ES-CRUD/res5.png)
