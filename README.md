@@ -1,2 +1,2 @@
-# ElasticSearch-Learn
-ES初学项目及笔记
+# ES初学笔记
+
